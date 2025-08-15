@@ -1,0 +1,15 @@
+a {
+  font-size: 30px;
+  background-color: red;
+  color: black;
+  position:relative;
+  left:50%;
+}
+body{
+  background-image: url(/background-la-gi-1.jpg);
+  background-size: 1080px 720px;
+  color: aqua;
+}
+pre{
+  font-size: x-large;
+}
