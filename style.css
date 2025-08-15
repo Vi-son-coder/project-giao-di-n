@@ -41,3 +41,7 @@ color: white;
 position:relative;
 left: 40px;
 }
+/* dùng để thay đổi màu khi con trỏ di chuyển vào */
+.button:hover {
+  background-color: #45a049;
+}
